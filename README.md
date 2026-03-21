@@ -1,5 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Laravel+%7C+React+%7C+Node.js;Flutter+%7C+Django+%7C+Python;Based+in+Nairobi+%F0%9F%87%B0%F0%9F%87%AA;Always+building+something+new..." alt="Typing SVG" />
+
 ###
 
 <p align="left">I'm Dancan Ngugi, a driven Full Stack Developer with experience creating cutting-edge web and mobile applications. I'm based in Nairobi, Kenya. I have been working across the entire stack, from building robust backends with Laravel, Node.js/Express, Django, and Python, to creating responsive, user-friendly frontends with React and modern CSS. Additionally, I use Flutter to create cross-platform mobile apps and manage deployments using my expanding DevOps expertise. I take great satisfaction in transforming concepts into practical digital solutions and writing clean, scalable code. I'm actively looking for freelance opportunities and open source collaboration, and I'm currently expanding into Cloud and AI/ML.</p>
