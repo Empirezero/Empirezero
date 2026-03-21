@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Dancan Ngugi, a driven Full Stack Developer with experience creating cutting-edge web and mobile applications. I'm based in Nairobi, Kenya . I have been working across the entire stack from building robust backends with Laravel, Node.js/Express, Django, and Python to creating responsive, user-friendly frontends with React and contemporary CSS. Additionally, I use Flutter to create cross-platform mobile apps and manage deployments using my expanding DevOps expertise. I take great satisfaction in transforming concepts into practical digital solutions and writing clear, scalable code. I'm actively looking for freelance opportunities and open source collaboration, and i'm currently expanding into cloud and AI/ML.</p>
+<p align="left">I'm Dancan Ngugi, a driven Full Stack Developer with experience creating cutting-edge web and mobile applications. I'm based in Nairobi, Kenya. I have been working across the entire stack, from building robust backends with Laravel, Node.js/Express, Django, and Python, to creating responsive, user-friendly frontends with React and modern CSS. Additionally, I use Flutter to create cross-platform mobile apps and manage deployments using my expanding DevOps expertise. I take great satisfaction in transforming concepts into practical digital solutions and writing clean, scalable code. I'm actively looking for freelance opportunities and open source collaboration, and I'm currently expanding into Cloud and AI/ML.</p>
 
 ###
 
@@ -10,7 +10,14 @@
 
 ###
 
-<p align="left">🌐 Portfolio<br>🔗 Check out my portfolio: portfolio-azure-pi-11.vercel.app<br><br>📚  I'm currently learning: Cloud & DevOps, AI/ML integration, and leveling up my Flutter skills for cross-platform mobile development.<br>🎯  Goals: Grow as a freelance developer, build impactful products for real clients, and contribute meaningfully to open source projects.<br>🎲 Fun fact: I'm a footballer who codes, equally comfortable on the pitch and in the terminal. When I'm not pushing commits, I'm probably gaming or chasing a ball ⚽🎮</p>
+<p align="left">
+🌐 <strong>Portfolio</strong><br>
+🔗 <a href="https://portfolio-azure-pi-11.vercel.app/">portfolio-azure-pi-11.vercel.app</a><br><br>
+✨ Creating bugs since: 2021<br><br>
+📚 I'm currently learning: Cloud & DevOps, AI/ML integration, and leveling up my Flutter skills for cross-platform mobile development.<br><br>
+🎯 Goals: Grow as a freelance developer, build impactful products for real clients, and contribute meaningfully to open source projects.<br><br>
+🎲 Fun fact: I'm a footballer who codes — equally comfortable on the pitch and in the terminal. When I'm not pushing commits, I'm probably gaming or chasing a ball ⚽🎮
+</p>
 
 ###
 
@@ -63,9 +70,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Empirezero/Empirezero/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Empirezero/Empirezero/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Empirezero/Empirezero/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ###
